@@ -4,6 +4,12 @@
     background-color: #283142;
 }
 
+.dsmeta-sales-title {
+    font-size: 24px;
+    color: #676FFF;
+    margin-bottom: 20px;
+}
+
 .dsmeta-form-control-container {
     max-width: 300px;
     margin-bottom: 16px;
